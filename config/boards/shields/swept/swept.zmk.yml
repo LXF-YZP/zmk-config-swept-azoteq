@@ -8,5 +8,5 @@ features:
   - keys
   - pointer
 siblings:
-  - charybdis_left
-  - charybdis_right
+  - swept_left
+  - swept_right
